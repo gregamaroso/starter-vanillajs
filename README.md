@@ -1,1 +1,3 @@
 # starter-vanillajs
+
+My personal starter pack for vanilla JS projects...
